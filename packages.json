@@ -1,6 +1,7 @@
 [
     {
         "package": "reuseme",
+        "branch": "main",
         "url": "https://github.com/olivroy/reuseme"
     }
 ]
